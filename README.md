@@ -16,8 +16,8 @@ app/
 │── services/
 │   ├── pdf_service.py       # Service for processing PDFs
 |
-│   ├── config.py            # Application configuration
-│   ├── main.py              # Entry point for the FastAPI application
+│── config.py            # Application configuration
+│── main.py              # Entry point for the FastAPI application
 │
 ├── .gitignore
 ├── README.md
