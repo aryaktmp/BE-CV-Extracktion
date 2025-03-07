@@ -34,6 +34,7 @@ git clone https://github.com/aryaktmp/BE-CV-Extracktion.git BE-CV-Extracktion
 cd BE-CV-Extracktion
 ```
 
+```
 pip install -r requirements.txt
 ```
 
